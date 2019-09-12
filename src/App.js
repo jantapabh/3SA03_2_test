@@ -1,7 +1,9 @@
-import React from 'react';
-import { Button } from 'reactstrap';
 
-export default class Example extends React.Component {
+import React, { Component } from 'react';
+import { Button } from 'reactstrap';
+import './App.css';
+
+export default class App extends React.Component {
   render() {
     return (
       <div>
