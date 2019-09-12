@@ -1,9 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import { Button } from 'reactstrap';
 
-export default class App extends React.Component {
+export default class Example extends React.Component {
   render() {
     return (
       <div>
